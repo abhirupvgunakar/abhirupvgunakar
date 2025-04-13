@@ -21,8 +21,6 @@
 | What | Description | Link |
 |------|-------------|------|
 | 🔒 Research | Enhanced Key Enforced Data Race Detection
-| 📲 App Dev | Serverless AI-Powered Recipe Generator 
-| 🎓 Club Lead | Vice President, Google Developer Student Club @ ASU
 
 ---
 
