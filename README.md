@@ -2,8 +2,7 @@
 <h3 align="center">Master’s Student @ Arizona State University | Systems Security & XR Developer</h3>
 
 <p align="center">
-  <a href="https://abhirupvg.me" target="_blank">🌐 Website</a> •
-  <a href="https://linkedin.com/in/abhirupvg" target="_blank">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/abhirupvgunakar" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:abhirupvgunakar04@gmail.com">📩 Email</a> •
   <a href="https://medium.com/@abhirupvgunakar04" target="_blank">✍️ Blog</a>
 </p>
