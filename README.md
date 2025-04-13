@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhirupvgunakar" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:abhirupvgunakar04@gmail.com">📩 Email</a> •
 </p>
 
 ---
