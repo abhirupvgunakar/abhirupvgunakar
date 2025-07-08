@@ -12,7 +12,7 @@
 - 💻 I'm currently researching **data race detection using Enhanced Memory Protection Keys (EPKs)** under **Prof. Adil Ahmad**
 - 📱 Building cross-platform **mobile apps** with Swift, React Native, and serverless backends
 - 🔬 Passionate about **systems security**, **extended reality (XR)**, and **cloud-native applications**
-- 🌍 Incoming **Systems Software Engineer Intern at the German Aerospace Center (DLR), Dresden**
+- 🌍 **Software Engineer Intern at the QuoData, Dresden**
 
 ---
 
