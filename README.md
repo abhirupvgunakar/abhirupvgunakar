@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abhirup 👋</h1>
-<h3 align="center">Master’s Student @ Arizona State University | Systems Security & XR Developer</h3>
+<h3 align="center">Master’s Student @ Arizona State University | Systems Security Researcher & XR Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhirupvgunakar" target="_blank"> LinkedIn</a>
