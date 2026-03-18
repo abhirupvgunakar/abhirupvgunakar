@@ -1,40 +1,20 @@
-# 👋 Hi, I'm Abhirup Vijay Gunakar
+# 👋 Hi, I'm Abhirup.
 
-**Systems Security Researcher | MS in Computer Science @ Arizona State University | XR Developer**
+Building in Systems Security & XR 🛡️
 
-I specialize in low-level systems security and immersive technologies. Currently, my research focuses on mitigating memory-related vulnerabilities in the Linux kernel using hardware-assisted protection.
+### Currently:
+* [cite_start]🛡️ Systems Security Researcher at [**ASTeRiSC Lab**](https://asteriscresearchlab.com/) [cite: 17, 49, 66]
+* [cite_start]🥽 XR and Software Developer at [**Meteor Studio**](https://meteor.ame.asu.edu/) [cite: 33, 56, 57]
+* [cite_start]🏫 Graduate Teaching Assistant at [**Arizona State University**](https://engineering.asu.edu/) [cite: 13, 62]
 
-[LinkedIn](https://linkedin.com/in/abhirupvgunakar) | [Twitter](https://x.com/abhirupvg)
-
----
-
-### 🔬 Research & Current Work
-* **Data Race Detection:** Developing an automated detection framework using **Enhanced Memory Protection Keys (EPKs)** under Prof. Adil Ahmad.
-* **Applied Project:** Solving the **Dependency Explosion Problem** using BPF-time to profile and optimize kernel-level interactions.
-* **XR Development:** Building cross-platform spatial computing apps with **Unity** and **SwiftUI**.
-
-### 🛠️ Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `C/C++`, `Python`, `Swift`, `Go`, `JavaScript`, `TypeScript`, `Bash` |
-| **Systems/Security** | `Linux Kernel`, `eBPF`, `Memory Protection Keys (MPK)`, `Docker`, `Git` |
-| **Frameworks** | `React Native`, `Node.js`, `Flask`, `SwiftUI`, `Unity (XR)` |
-| **Cloud/ML** | `AWS`, `Google Cloud (Vertex AI)`, `GitHub Actions`, `Firebase` |
-
-### 🏆 Leadership & Impact
-* **President @ Google Developer Student Club (GDSC) ASU (Fall 2025):** Led a community of 500+ developers, organizing workshops on RAG, Semantic Search, and GenAI.
-* **Speaker @ Open Source Summit Europe:** Presented research on data races in the Linux kernel in Amsterdam.
-* **Graduate Teaching Assistant:** Mentoring 200+ students in Intro to Engineering (FSE 100) and Computer Organization (CSE 230).
+### Previously:
+* [cite_start]🇩🇪 Software Engineering Intern at [**QuoData GmbH**](https://quodata.de/en) (Dresden, Germany) [cite: 25, 52]
+* [cite_start]🏢 President of the [**Google Developer Student Club (GDSC)**](https://gdsc.community.dev/arizona-state-university/) at ASU [cite: 20, 72]
+* [cite_start]🔋 Full Stack Developer at [**Array Technologies**](https://array-tech.com/) [cite: 29]
+* [cite_start]🛠️ Research Intern at [**RWTH Aachen University**](https://www.rwth-aachen.de/) (Germany) [cite: 38, 54]
+* [cite_start]🎓 B.S. in Computer Science at [**Arizona State University**](https://asu.edu) [cite: 6, 9]
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirupvgunakar&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhirup's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirupvgunakar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
-### 🏎️ Fun Fact
-When I’m not deep in kernel code, I’m likely analyzing **Formula 1** telemetries or organizing F1-themed Machine Learning workshops. 🏁
+### Key Links:
+[cite_start][LinkedIn](https://linkedin.com/in/abhirupvgunakar) [cite: 4] | [Portfolio](https://abhirup.me) | [Twitter](https://x.com/abhirupvg)
