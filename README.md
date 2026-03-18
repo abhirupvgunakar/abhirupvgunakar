@@ -13,6 +13,3 @@
 * Full Stack Developer at [**Array Technologies**](https://array-tech.com/)
 * VR Software Research Intern at [**RWTH Aachen University**](https://www.rwth-aachen.de/) (DAP - RWTH Aachen, Germany)
 * B.S. in Computer Science (Summa Cum Laude) at [**Arizona State University**](https://asu.edu)
-
-### 📈 Activity Graph
-[![Abhirup's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhirupvgunakar&theme=tokyonight&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
