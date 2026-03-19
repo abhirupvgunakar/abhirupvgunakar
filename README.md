@@ -1,6 +1,6 @@
 # Hey, I'm Abhirup!
 
-### Systems Security Researcher & Full-Stack Engineer
+### Systems Security Researcher, XR & Full-Stack Software Developer
 
 ### Currently:
 * Systems Security Researcher at [**ASTeRiSC Lab**](https://asteriscresearchlab.com/)
